@@ -1,0 +1,17 @@
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.exe
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.deps.json
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.runtimeconfig.json
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.runtimeconfig.dev.json
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.dll
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\bin\Debug\netcoreapp3.1\2020NR601_SistemasEC.pdb
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.csproj.AssemblyReference.cache
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\_2020NR601Sistemasec.Form1.resources
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.csproj.GenerateResource.cache
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.AssemblyInfoInputs.cache
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.AssemblyInfo.cs
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.csproj.CoreCompileInputs.cache
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.dll
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.pdb
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\2020NR601_SistemasEC.genruntimeconfig.cache
+C:\Users\Eterna\source\repos\2020NR601Sistemasec\2020NR601Sistemasec\obj\Debug\netcoreapp3.1\_2020NR601Sistemasec.Properties.Resources.resources
